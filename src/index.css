@@ -10,13 +10,16 @@
   --white-color: #ffffff;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 /* Typography */
 h1 {
   font-family: "Big Shoulders Display", sans-serif;
   font-weight: 900;
   font-size: 96px; /* Heading (XL) */
   line-height: 88px;
-  color: var(--gold);
 }
 
 h2 {
@@ -24,7 +27,6 @@ h2 {
   font-weight: 900;
   font-size: 70px; /* Heading (L) */
   line-height: 70px;
-  color: var(--gold);
 }
 
 h3 {
@@ -32,7 +34,6 @@ h3 {
   font-weight: 900;
   font-size: 60px; /* Heading (M) */
   line-height: 50px;
-  color: var(--gold);
 }
 
 h4 {
@@ -40,7 +41,6 @@ h4 {
   font-weight: bl;
   font-size: 36px; /* Heading (S) */
   line-height: 36px;
-  color: var(--gold);
 }
 
 p {
@@ -48,7 +48,6 @@ p {
   font-weight: 300;
   font-size: 22px; /* Body (M) */
   line-height: 32px;
-  color: var(--almost-black);
 }
 
 /* Additional styles for smaller body text */
@@ -57,5 +56,4 @@ small {
   font-weight: 300;
   font-size: 18px; /* Body (S) */
   line-height: 28px;
-  color: var(--almost-black);
 }

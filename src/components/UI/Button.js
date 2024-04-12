@@ -9,8 +9,8 @@ const Button = ({ text, isBackBtn }) => {
   return (
     <button
       className={(isBackBtn && "flex-row-reverse") + " w-64 h-16 flex"}
-      onMouseOver={handleHover}
-      onMouseOut={handleHover}
+      onMouseEnter={handleHover}
+      onMouseLeave={handleHover}
       onTouchStart={handleHover}
       onTouchEnd={handleHover}
       onTouchCancel={handleHover}
