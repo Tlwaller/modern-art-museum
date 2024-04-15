@@ -3,7 +3,7 @@ import museum1 from "assets/desktop/image-hero@2x.jpg";
 
 const Hero = () => {
   return (
-    <section className="hero relative h-screen w-screen">
+    <section className="hero relative w-screen md:h-screen">
       <div className="hero-bg-container h-full w-full flex flex-col top-0 left-0 -z-10 md:flex-row">
         <div
           className={

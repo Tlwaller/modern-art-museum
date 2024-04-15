@@ -4,17 +4,18 @@ import chevronRight from "assets/icon-arrow-right.svg";
 
 const Button = ({ text, isBackBtn }) => {
   const [hover, setHover] = useState();
-  const handleHover = () => {
+  const handleHover = (e) => {
+    e.preventDefault();
     setHover(!hover);
   };
   return (
     <button
       className={(isBackBtn && "flex-row-reverse") + " w-64 h-16 flex"}
-      onMouseEnter={handleHover}
-      onMouseLeave={handleHover}
-      onTouchStart={handleHover}
-      onTouchEnd={handleHover}
-      onTouchCancel={handleHover}
+      onMouseEnter={(e) => handleHover(e)}
+      onMouseLeave={(e) => handleHover(e)}
+      onTouchStart={(e) => handleHover(e)}
+      onTouchEnd={(e) => handleHover(e)}
+      onTouchCancel={(e) => handleHover(e)}
     >
       <div
         className={
