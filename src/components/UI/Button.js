@@ -1,5 +1,6 @@
 import { useState } from "react";
-import chevron from "assets/Chevron.svg";
+import chevronLeft from "assets/icon-arrow-left.svg";
+import chevronRight from "assets/icon-arrow-right.svg";
 
 const Button = ({ text, isBackBtn }) => {
   const [hover, setHover] = useState();
@@ -30,9 +31,8 @@ const Button = ({ text, isBackBtn }) => {
         }
       >
         <img
-          src={chevron}
+          src={isBackBtn ? chevronLeft : chevronRight}
           alt={(isBackBtn ? "Backward" : "Forward") + " facing arrow"}
-          className={isBackBtn && "transform -scale-x-100"}
         />
       </div>
     </button>
