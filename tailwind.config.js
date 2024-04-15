@@ -3,6 +3,9 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
+      width: {
+        22: "22rem",
+      },
       colors: {
         gold: "#d5966c",
         "almost-black": "#151515",
