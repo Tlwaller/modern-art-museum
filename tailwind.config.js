@@ -6,6 +6,10 @@ module.exports = {
       width: {
         22: "22rem",
       },
+      height: {
+        45: "45rem",
+        63: "63rem",
+      },
       colors: {
         gold: "#d5966c",
         "almost-black": "#151515",
