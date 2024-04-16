@@ -5,10 +5,10 @@ import tw from "assets/icon-twitter.svg";
 
 const Footer = () => {
   return (
-    <footer className="w-full bg-almost-black py-12 px-8">
+    <footer className="w-full bg-almost-black py-12">
       <div
         className={
-          "footer content flex flex-col gap-9 mx-auto" +
+          "footer content flex flex-col gap-9 mx-auto px-8" +
           " md:max-w-6xl md:flex-row md:justify-between"
         }
       >
