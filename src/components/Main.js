@@ -4,7 +4,7 @@ import museum4 from "assets/desktop/image-grid-3@2x.jpg";
 
 const Main = () => {
   return (
-    <main className="px-4 flex flex-col gap-6 md:max-w-6xl mx-auto">
+    <main className="px-4 flex flex-col gap-6 mx-auto md:px-8 md:max-w-6xl">
       <section className="flex flex-col-reverse gap-6 md:flex-row md:justify-between">
         <div className="section-content h-full md:w-4/12 md:pr-11 md:my-auto">
           <h3 className="pb-5">YOUR DAY AT THE GALLERY</h3>

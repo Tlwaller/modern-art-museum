@@ -9,13 +9,14 @@ const Button = ({ text, isBackBtn }) => {
     setHover(!hover);
   };
   return (
-    <button
+    <a
       className={(isBackBtn && "flex-row-reverse") + " w-64 h-16 flex"}
       onMouseEnter={(e) => handleHover(e)}
       onMouseLeave={(e) => handleHover(e)}
       onTouchStart={(e) => handleHover(e)}
       onTouchEnd={(e) => handleHover(e)}
       onTouchCancel={(e) => handleHover(e)}
+      href="https://tlwaller.github.io/"
     >
       <div
         className={
@@ -36,7 +37,7 @@ const Button = ({ text, isBackBtn }) => {
           alt={(isBackBtn ? "Backward" : "Forward") + " facing arrow"}
         />
       </div>
-    </button>
+    </a>
   );
 };
 
