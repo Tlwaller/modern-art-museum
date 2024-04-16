@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d566052.css",
-    "main.js": "/static/js/main.4391e8cd.js",
-    "static/js/453.0f7ddf46.chunk.js": "/static/js/453.0f7ddf46.chunk.js",
-    "static/media/image-grid-1@2x.jpg": "/static/media/image-grid-1@2x.01af31ce54917484fe9d.jpg",
-    "static/media/image-hero@2x.jpg": "/static/media/image-hero@2x.99a2cfc8e59d8e44df05.jpg",
-    "static/media/image-grid-2@2x.jpg": "/static/media/image-grid-2@2x.ea4525fc185e0724a781.jpg",
-    "static/media/image-grid-3@2x.jpg": "/static/media/image-grid-3@2x.8c20dafd7a6a577fc21a.jpg",
-    "static/media/logo-light.svg": "/static/media/logo-light.31a7aa1fa294df64df01f8466642b41f.svg",
-    "index.html": "/index.html",
-    "static/media/icon-instagram.svg": "/static/media/icon-instagram.3d353a344202f569874b4ecb5cfb4c3b.svg",
-    "static/media/icon-twitter.svg": "/static/media/icon-twitter.75e8a8eb7334e2cfcbfb213eadb6c246.svg",
-    "static/media/icon-facebook.svg": "/static/media/icon-facebook.f709ece0570d170ced9d6c48cd221027.svg",
-    "static/media/icon-arrow-left.svg": "/static/media/icon-arrow-left.c674d53cbd0fd283364905ea68a562a0.svg",
-    "static/media/icon-arrow-right.svg": "/static/media/icon-arrow-right.a24cfbb84a44181bc4a791c6d84327b3.svg",
-    "main.0d566052.css.map": "/static/css/main.0d566052.css.map",
-    "main.4391e8cd.js.map": "/static/js/main.4391e8cd.js.map",
-    "453.0f7ddf46.chunk.js.map": "/static/js/453.0f7ddf46.chunk.js.map"
+    "main.css": "/modern-art-museum/static/css/main.0d566052.css",
+    "main.js": "/modern-art-museum/static/js/main.31f83ab7.js",
+    "static/js/453.42ba73b7.chunk.js": "/modern-art-museum/static/js/453.42ba73b7.chunk.js",
+    "static/media/image-grid-1@2x.jpg": "/modern-art-museum/static/media/image-grid-1@2x.01af31ce54917484fe9d.jpg",
+    "static/media/image-hero@2x.jpg": "/modern-art-museum/static/media/image-hero@2x.99a2cfc8e59d8e44df05.jpg",
+    "static/media/image-grid-2@2x.jpg": "/modern-art-museum/static/media/image-grid-2@2x.ea4525fc185e0724a781.jpg",
+    "static/media/image-grid-3@2x.jpg": "/modern-art-museum/static/media/image-grid-3@2x.8c20dafd7a6a577fc21a.jpg",
+    "static/media/logo-light.svg": "/modern-art-museum/static/media/logo-light.31a7aa1fa294df64df01f8466642b41f.svg",
+    "index.html": "/modern-art-museum/index.html",
+    "static/media/icon-instagram.svg": "/modern-art-museum/static/media/icon-instagram.3d353a344202f569874b4ecb5cfb4c3b.svg",
+    "static/media/icon-twitter.svg": "/modern-art-museum/static/media/icon-twitter.75e8a8eb7334e2cfcbfb213eadb6c246.svg",
+    "static/media/icon-facebook.svg": "/modern-art-museum/static/media/icon-facebook.f709ece0570d170ced9d6c48cd221027.svg",
+    "static/media/icon-arrow-left.svg": "/modern-art-museum/static/media/icon-arrow-left.c674d53cbd0fd283364905ea68a562a0.svg",
+    "static/media/icon-arrow-right.svg": "/modern-art-museum/static/media/icon-arrow-right.a24cfbb84a44181bc4a791c6d84327b3.svg",
+    "main.0d566052.css.map": "/modern-art-museum/static/css/main.0d566052.css.map",
+    "main.31f83ab7.js.map": "/modern-art-museum/static/js/main.31f83ab7.js.map",
+    "453.42ba73b7.chunk.js.map": "/modern-art-museum/static/js/453.42ba73b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d566052.css",
-    "static/js/main.4391e8cd.js"
+    "static/js/main.31f83ab7.js"
   ]
 }
