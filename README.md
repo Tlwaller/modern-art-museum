@@ -12,7 +12,7 @@ Welcome to the Modern Art Gallery! This repository hosts the code for a mock web
 To run the Modern Art Gallery website locally, follow these steps:
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/tlwaller/modern-art-gallery.git
+   git clone https://github.com/Tlwaller/modern-art-museum.git
 
 2. Navigate to the project directory:
    cd modern-art-gallery
